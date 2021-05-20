@@ -1,0 +1,1 @@
+ conda create --name videdei scipy==1.2.0
